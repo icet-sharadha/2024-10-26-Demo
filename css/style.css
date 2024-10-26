@@ -8,7 +8,23 @@
 .h1{
     background-color: aquamarine;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
+
+    /* padding: 50px 50px 50px 50px; */
+
+    /* padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px; */
+
+    margin: 50px 50px 50px 50px;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50PX;
+    margin-bottom: 50PX;
+
+
 }
 
 
@@ -24,6 +40,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+
 
 /* sdhfvsdkbnkvjsdvnksdv
 sdhfvsdkbnkvjsdvnksdv
